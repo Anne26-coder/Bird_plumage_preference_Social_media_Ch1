@@ -1,0 +1,721 @@
+Sex,Treatment,Account,Species,date,Likes,Block,Impression,Reach,biominal_right,proportion
+M,M,TheFeathered_Life ,Indian Peafowl ,04.07.2023,1,1,1,1,1,1
+F,F,Feathered_Fables,Indian Peafowl ,04.07.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Indian Peafowl ,04.07.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Magnificient Frigatebird,04.07.2023,2,2,2,2,1,1
+F,F,beak_beyond (F2),Magnificient Frigatebird,04.07.2023,2,2,2,2,1,1
+F,E,Birds_near_you011,Magnificient Frigatebird,04.07.2023,2,2,2,2,1,1
+M,M,plumageparadise,Blood pheasant ,04.07.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Blood pheasant ,04.07.2023,2,3,25,23,1,0.086956522
+M,E,SkywardSquad ,Blood pheasant ,04.07.2023,1,3,1,1,1,1
+M,M,Bird.NerdNation ,Reeve's pheasant ,04.07.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Reeve's pheasant ,04.07.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Reeve's pheasant ,04.07.2023,1,4,2,2,1,0.5
+M,M,The_majestic_winged ,Blyth's paradise-flycatcher ,04.07.2023,2,5,2,2,1,1
+F,F,_Avian_Adventures,Blyth's paradise-flycatcher ,04.07.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Blyth's paradise-flycatcher ,04.07.2023,2,5,2,2,1,1
+M,M,TheFeathered_Life ,Northern Cardinal,07.07.2023,1,1,1,1,1,1
+F,F,Feathered_Fables,Northern Cardinal,07.07.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Northern Cardinal,07.07.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Red siskin ,07.07.2023,1,2,1,1,1,1
+F,F,beak_beyond (F2),Red siskin ,07.07.2023,0,2,1,1,0,0
+F,E,Birds_near_you011,Red siskin ,07.07.2023,0,2,1,1,0,0
+F,F,_Feathered_Fotos,Asian Koel,07.07.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Asian Koel,07.07.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Dusky grouse ,07.07.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Dusky grouse ,07.07.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Dusky grouse ,07.07.2023,0,4,2,2,0,0
+M,M,The_majestic_winged ,Superb Parrot,07.07.2023,0,5,1,1,0,0
+F,F,_Avian_Adventures,Superb Parrot,07.07.2023,1,5,1,1,1,1
+F,E,BeakandBeauty ,Superb Parrot,07.07.2023,1,5,1,1,1,1
+M,M,TheFeathered_Life ,Westen Parotia,11.07.2023,1,1,1,1,1,1
+F,F,Feathered_Fables,Westen Parotia,11.07.2023,0,1,1,1,0,0
+M,E,Chirp_Chronicles,Westen Parotia,11.07.2023,1,1,2,2,1,0.5
+M,M,Winged_Wonderss,Anna's hummingbird ,11.07.2023,2,2,3,3,1,0.666666667
+F,F,beak_beyond (F2),Anna's hummingbird ,11.07.2023,1,2,3,3,1,0.333333333
+M,M,plumageparadise,Australian King Parrot ,11.07.2023,1,3,1,1,1,1
+F,E,SkywardSquad ,Australian King Parrot ,11.07.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Wood duck ,11.07.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Wood duck ,11.07.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Wood duck ,11.07.2023,0,4,1,1,0,0
+M,M,The_majestic_winged ,Reeve's pheasant ,11.07.2023,1,5,1,1,1,1
+F,F,_Avian_Adventures,Reeve's pheasant ,11.07.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Reeve's pheasant ,11.07.2023,1,5,1,1,1,1
+M,M,TheFeathered_Life ,Eastern Bluebird,14.07.2023,1,1,1,1,1,1
+F,F,Feathered_Fables,Eastern Bluebird,14.07.2023,1,1,1,1,1,1
+F,E,Chirp_Chronicles,Eastern Bluebird,14.07.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Ruby-throated hummingbird ,14.07.2023,0,2,1,1,0,0
+F,F,beak_beyond (F2),Ruby-throated hummingbird ,14.07.2023,1,2,1,1,1,1
+F,E,Birds_near_you011,Ruby-throated hummingbird ,14.07.2023,0,2,0,0,0,0
+M,M,plumageparadise,Westen Parotia,14.07.2023,0,3,1,1,0,0
+F,F,_Feathered_Fotos,Westen Parotia,14.07.2023,0,3,1,1,0,0
+M,E,SkywardSquad ,Westen Parotia,14.07.2023,1,3,2,2,1,0.5
+M,M,Bird.NerdNation ,Andean Cock-of-the-rock,14.07.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Andean Cock-of-the-rock,14.07.2023,1,4,1,1,1,1
+F,E,Feathered_wonder_ss,Andean Cock-of-the-rock,14.07.2023,0,4,1,1,0,0
+M,M,The_majestic_winged ,Large Niltava ,14.07.2023,1,5,1,1,1,1
+F,F,_Avian_Adventures,Large Niltava ,14.07.2023,1,5,1,1,1,1
+M,E,BeakandBeauty ,Large Niltava ,14.07.2023,1,5,1,1,1,1
+M,M,TheFeathered_Life ,Wild Turkey,18.07.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Wild Turkey,18.07.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Wild Turkey,18.07.2023,1,1,2,2,1,0.5
+M,M,Winged_Wonderss,Blyth's paradise-flycatcher ,18.07.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Blyth's paradise-flycatcher ,18.07.2023,1,2,1,1,1,1
+F,E,Birds_near_you011,Blyth's paradise-flycatcher ,18.07.2023,0,2,0,0,0,0
+M,M,plumageparadise,Superb Fairywrens ,18.07.2023,1,3,1,1,1,1
+F,F,_Feathered_Fotos,Superb Fairywrens ,18.07.2023,1,3,1,1,1,1
+F,E,SkywardSquad ,Superb Fairywrens ,18.07.2023,0,3,0,0,0,0
+F,F,Birding_bliss23,Long-tailed Widowbirds ,18.07.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Long-tailed Widowbirds ,18.07.2023,1,4,1,1,1,1
+M,M,The_majestic_winged ,Kalij Pheasant,18.07.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Kalij Pheasant,18.07.2023,1,5,1,1,1,1
+M,E,BeakandBeauty ,Kalij Pheasant,18.07.2023,0,5,1,1,0,0
+M,M,TheFeathered_Life ,Kalij Pheasant,21.07.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Kalij Pheasant,21.07.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Kalij Pheasant,21.07.2023,2,1,2,2,1,1
+M,M,Winged_Wonderss,Northern Cardinal,21.07.2023,0,2,1,1,0,0
+F,F,beak_beyond (F2),Northern Cardinal,21.07.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Northern Cardinal,21.07.2023,0,2,0,0,0,0
+F,F,_Feathered_Fotos,Mandarin duck ,21.07.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Mandarin duck ,21.07.2023,3,3,3,3,1,1
+M,M,Bird.NerdNation ,Superb Lyrebird ,21.07.2023,0,4,1,1,0,0
+F,F,Birding_bliss23,Superb Lyrebird ,21.07.2023,0,4,1,1,0,0
+F,E,Feathered_wonder_ss,Superb Lyrebird ,21.07.2023,1,4,2,2,1,0.5
+M,M,The_majestic_winged ,Australian King Parrot ,21.07.2023,3,5,4,4,1,0.75
+F,F,_Avian_Adventures,Australian King Parrot ,21.07.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Indian Paradise Flycatcher,25.07.2023,1,1,1,1,1,1
+F,F,Feathered_Fables,Indian Paradise Flycatcher,25.07.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Indian Paradise Flycatcher,25.07.2023,0,1,1,1,0,0
+F,E,Birds_near_you011,Long-tailed Widowbirds ,25.07.2023,0,2,0,0,0,0
+M,M,plumageparadise,Dusky grouse ,25.07.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Dusky grouse ,25.07.2023,1,3,1,1,1,1
+M,E,SkywardSquad ,Dusky grouse ,25.07.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Kalij Pheasant,25.07.2023,1,4,1,1,1,1
+F,F,Birding_bliss23,Kalij Pheasant,25.07.2023,0,4,1,1,0,0
+F,E,Feathered_wonder_ss,Kalij Pheasant,25.07.2023,1,4,1,1,1,1
+M,M,The_majestic_winged ,Superb Fairywrens ,25.07.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Superb Fairywrens ,25.07.2023,0,5,1,1,0,0
+M,M,TheFeathered_Life ,Magnificient Frigatebird,28.07.2023,0,1,1,1,0,0
+F,F,Feathered_Fables,Magnificient Frigatebird,28.07.2023,1,1,2,2,1,0.5
+M,E,Chirp_Chronicles,Magnificient Frigatebird,28.07.2023,1,1,2,2,1,0.5
+M,M,Winged_Wonderss,Grandala ,28.07.2023,1,2,1,1,1,1
+F,F,beak_beyond (F2),Grandala ,28.07.2023,1,2,1,1,1,1
+F,E,Birds_near_you011,Grandala ,28.07.2023,0,2,0,0,0,0
+M,M,plumageparadise,Twelve-wired bird of Paradise ,28.07.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Twelve-wired bird of Paradise ,28.07.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Twelve-wired bird of Paradise ,28.07.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Grandala ,28.07.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Grandala ,28.07.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Grandala ,28.07.2023,1,4,2,2,1,0.5
+M,M,The_majestic_winged ,Blood pheasant ,28.07.2023,1,5,1,1,1,1
+F,F,_Avian_Adventures,Blood pheasant ,28.07.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Blood pheasant ,28.07.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Ribbon-tailed astrapia,01.08.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Ribbon-tailed astrapia,01.08.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Ribbon-tailed astrapia,01.08.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Indian Peafowl ,01.08.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Indian Peafowl ,01.08.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Indian Peafowl ,01.08.2023,0,2,0,0,0,0
+M,M,plumageparadise,Ruby-throated hummingbird ,01.08.2023,2,3,5,5,1,0.4
+F,F,_Feathered_Fotos,Ruby-throated hummingbird ,01.08.2023,1,3,3,3,1,0.333333333
+F,E,SkywardSquad ,Ruby-throated hummingbird ,01.08.2023,1,3,1,1,1,1
+M,M,Bird.NerdNation ,House finch ,01.08.2023,0,4,1,1,0,0
+F,F,Birding_bliss23,House finch ,01.08.2023,1,4,1,1,1,1
+M,E,Feathered_wonder_ss,House finch ,01.08.2023,1,4,3,3,1,0.333333333
+F,F,_Avian_Adventures,Twelve-wired bird of Paradise ,01.08.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Twelve-wired bird of Paradise ,01.08.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Australian King Parrot ,04.08.2023,0,1,1,1,0,0
+F,F,Feathered_Fables,Australian King Parrot ,04.08.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Australian King Parrot ,04.08.2023,1,1,3,3,1,0.333333333
+M,M,Winged_Wonderss,Helmeted Manakin ,04.08.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Helmeted Manakin ,04.08.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Helmeted Manakin ,04.08.2023,0,2,0,0,0,0
+F,F,_Feathered_Fotos,Indian Paradise Flycatcher,04.08.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Indian Paradise Flycatcher,04.08.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Red crested pochard ,04.08.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Red crested pochard ,04.08.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Red crested pochard ,04.08.2023,0,4,1,1,0,0
+M,M,The_majestic_winged ,Eclectus parrot,04.08.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Eclectus parrot,04.08.2023,2,5,2,2,1,1
+M,E,BeakandBeauty ,Eclectus parrot,04.08.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Anna's hummingbird ,08.08.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Anna's hummingbird ,08.08.2023,1,1,1,1,1,1
+F,E,Chirp_Chronicles,Anna's hummingbird ,08.08.2023,2,1,2,2,1,1
+M,M,Winged_Wonderss,Indigo bunting ,08.08.2023,1,2,2,1,1,1
+F,F,beak_beyond (F2),Indigo bunting ,08.08.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Indigo bunting ,08.08.2023,0,2,0,0,0,0
+M,M,plumageparadise,Mallard,08.08.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Mallard,08.08.2023,1,3,1,1,1,1
+M,M,Bird.NerdNation ,Australian King Parrot ,08.08.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Australian King Parrot ,08.08.2023,1,4,3,3,1,0.333333333
+M,M,The_majestic_winged ,Eastern Bluebird,08.08.2023,0,5,2,2,0,0
+F,F,_Avian_Adventures,Eastern Bluebird,08.08.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Eastern Bluebird,08.08.2023,0,5,1,1,0,0
+M,M,TheFeathered_Life ,Mallard,11.08.2023,0,1,1,1,0,0
+F,F,Feathered_Fables,Mallard,11.08.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Mallard,11.08.2023,1,1,1,1,1,1
+M,M,Winged_Wonderss,Wild Turkey,11.08.2023,0,2,1,1,0,0
+F,F,beak_beyond (F2),Wild Turkey,11.08.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Wild Turkey,11.08.2023,0,2,0,0,0,0
+M,M,plumageparadise,Northern Cardinal,11.08.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Northern Cardinal,11.08.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Northern Cardinal,11.08.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Crested partridge ,11.08.2023,1,4,1,1,1,1
+F,F,Birding_bliss23,Crested partridge ,11.08.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Crested partridge ,11.08.2023,1,4,3,3,1,0.333333333
+M,M,The_majestic_winged ,Superb Lyrebird ,11.08.2023,0,5,1,1,0,0
+F,F,_Avian_Adventures,Superb Lyrebird ,11.08.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Superb Lyrebird ,11.08.2023,0,5,1,1,0,0
+M,M,TheFeathered_Life ,Painted spurfowl,15.08.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Painted spurfowl,15.08.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Painted spurfowl,15.08.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Blood pheasant ,15.08.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Blood pheasant ,15.08.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Blood pheasant ,15.08.2023,0,2,0,0,0,0
+M,M,plumageparadise,Hooded Parrot ,15.08.2023,2,3,3,3,1,0.666666667
+F,F,_Feathered_Fotos,Hooded Parrot ,15.08.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Hooded Parrot ,15.08.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Indian Paradise Flycatcher,15.08.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Indian Paradise Flycatcher,15.08.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Indian Paradise Flycatcher,15.08.2023,0,4,2,2,0,0
+M,M,The_majestic_winged ,Indigo bunting ,15.08.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Indigo bunting ,15.08.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Indigo bunting ,15.08.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Red-backed fairywren,18.08.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Red-backed fairywren,18.08.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Red-backed fairywren,18.08.2023,1,1,1,1,1,1
+M,M,Winged_Wonderss,Reeve's pheasant ,18.08.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Reeve's pheasant ,18.08.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Reeve's pheasant ,18.08.2023,0,2,0,0,0,0
+M,M,plumageparadise,Helmeted Manakin ,18.08.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Helmeted Manakin ,18.08.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Helmeted Manakin ,18.08.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Anna's hummingbird ,18.08.2023,0,4,1,1,0,0
+F,F,Birding_bliss23,Anna's hummingbird ,18.08.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Anna's hummingbird ,18.08.2023,0,4,2,2,0,0
+M,M,The_majestic_winged ,Purple-rumped Sunbird ,18.08.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Purple-rumped Sunbird ,18.08.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Purple-rumped Sunbird ,18.08.2023,0,5,1,1,0,0
+M,M,TheFeathered_Life ,Eclectus parrot,22.08.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Eclectus parrot,22.08.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Eclectus parrot,22.08.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Hooded Parrot ,22.08.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Hooded Parrot ,22.08.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Hooded Parrot ,22.08.2023,0,2,0,0,0,0
+F,F,_Feathered_Fotos,Wild Turkey,22.08.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Wild Turkey,22.08.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Oriental magpie robin ,22.08.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Oriental magpie robin ,22.08.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Oriental magpie robin ,22.08.2023,1,4,2,2,1,0.5
+M,M,TheFeathered_Life ,Black grouse,25.08.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Black grouse,25.08.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Black grouse,25.08.2023,0,1,2,2,0,0
+M,M,Winged_Wonderss,Gang-gang Cockatoo ,25.08.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Gang-gang Cockatoo ,25.08.2023,1,2,1,1,1,1
+M,E,Birds_near_you011,Gang-gang Cockatoo ,25.08.2023,0,2,0,0,0,0
+M,M,plumageparadise,Painted spurfowl,25.08.2023,0,3,1,1,0,0
+F,F,_Feathered_Fotos,Painted spurfowl,25.08.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Painted spurfowl,25.08.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Westen Parotia,25.08.2023,0,4,13,13,0,0
+F,F,Birding_bliss23,Westen Parotia,25.08.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Westen Parotia,25.08.2023,1,4,3,3,1,0.333333333
+M,M,The_majestic_winged ,Indian Paradise Flycatcher,25.08.2023,0,5,1,1,0,0
+F,F,_Avian_Adventures,Indian Paradise Flycatcher,25.08.2023,2,5,2,2,1,1
+M,E,BeakandBeauty ,Indian Paradise Flycatcher,25.08.2023,0,5,0,0,0,0
+F,F,Feathered_Fables,Painted bunting ,29.08.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Painted bunting ,29.08.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Ribbon-tailed astrapia,29.08.2023,1,2,1,1,1,1
+F,F,beak_beyond (F2),Ribbon-tailed astrapia,29.08.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Ribbon-tailed astrapia,29.08.2023,0,2,0,0,0,0
+M,M,plumageparadise,Anna's hummingbird ,29.08.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Anna's hummingbird ,29.08.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Black grouse,29.08.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Black grouse,29.08.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Black grouse,29.08.2023,1,4,2,2,1,0.5
+M,M,The_majestic_winged ,Vermilion Flycatcher,29.08.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Vermilion Flycatcher,29.08.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Twelve-wired bird of Paradise ,01.09.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Twelve-wired bird of Paradise ,01.09.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Twelve-wired bird of Paradise ,01.09.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Painted spurfowl,01.09.2023,1,2,1,1,1,1
+F,F,beak_beyond (F2),Painted spurfowl,01.09.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Painted spurfowl,01.09.2023,0,2,0,0,0,0
+M,M,plumageparadise,Red Jungle fowl,01.09.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Red Jungle fowl,01.09.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Red Jungle fowl,01.09.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Northern Cardinal,01.09.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Northern Cardinal,01.09.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Northern Cardinal,01.09.2023,0,5,1,1,0,0
+F,F,_Avian_Adventures,Painted bunting ,01.09.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Northern Cardinal,01.09.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Asian Koel,05.09.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Asian Koel,05.09.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Asian Koel,05.09.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Eclectus parrot,05.09.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Eclectus parrot,05.09.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Eclectus parrot,05.09.2023,0,2,0,0,0,0
+M,M,plumageparadise,Reeve's pheasant ,05.09.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Reeve's pheasant ,05.09.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Reeve's pheasant ,05.09.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Blood pheasant ,05.09.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Blood pheasant ,05.09.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Blood pheasant ,05.09.2023,0,4,2,2,0,0
+M,M,The_majestic_winged ,Painted bunting ,05.09.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,House finch ,05.09.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Painted bunting ,05.09.2023,0,5,1,1,0,0
+M,M,TheFeathered_Life ,House finch ,08.09.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,House finch ,08.09.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,House finch ,08.09.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Painted bunting ,08.09.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Painted bunting ,08.09.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Painted bunting ,08.09.2023,0,2,0,0,0,0
+M,M,Bird.NerdNation ,Blood pheasant ,08.09.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Blood pheasant ,08.09.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Blood pheasant ,08.09.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,House finch ,08.09.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,House finch ,08.09.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,House finch ,08.09.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Gang-gang Cockatoo ,12.09.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Gang-gang Cockatoo ,12.09.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Gang-gang Cockatoo ,12.09.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Australian King Parrot ,12.09.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Australian King Parrot ,12.09.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Australian King Parrot ,12.09.2023,0,2,0,0,0,0
+M,M,plumageparadise,Indigo bunting ,12.09.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Indigo bunting ,12.09.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Indigo bunting ,12.09.2023,0,3,1,1,0,0
+M,M,Bird.NerdNation ,Vermilion Flycatcher,12.09.2023,1,4,2,2,1,0.5
+F,F,Birding_bliss23,Vermilion Flycatcher,12.09.2023,0,4,1,1,0,0
+M,E,Feathered_wonder_ss,Vermilion Flycatcher,12.09.2023,1,4,2,2,1,0.5
+M,M,The_majestic_winged ,Red crested pochard ,12.09.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Red crested pochard ,12.09.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Red crested pochard ,12.09.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Wood duck ,15.09.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Wood duck ,15.09.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Wood duck ,15.09.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Dusky grouse ,15.09.2023,1,2,1,1,1,1
+F,F,beak_beyond (F2),Dusky grouse ,15.09.2023,1,2,1,1,1,1
+F,E,Birds_near_you011,Dusky grouse ,15.09.2023,1,2,1,1,1,1
+F,F,_Feathered_Fotos,Andean Cock-of-the-rock,15.09.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Andean Cock-of-the-rock,15.09.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Red-backed fairywren,15.09.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Red-backed fairywren,15.09.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Red-backed fairywren,15.09.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Helmeted Manakin ,15.09.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Helmeted Manakin ,15.09.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Helmeted Manakin ,15.09.2023,0,5,0,0,0,0
+F,F,Feathered_Fables,Red siskin ,19.09.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Red siskin ,19.09.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Red cheeked Parrot ,19.09.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Red cheeked Parrot ,19.09.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Red cheeked Parrot ,19.09.2023,0,2,0,0,0,0
+M,M,plumageparadise,Himalayan Monal ,19.09.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Himalayan Monal ,19.09.2023,0,3,1,1,0,0
+F,E,SkywardSquad ,Himalayan Monal ,19.09.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Mallard,19.09.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Mallard,19.09.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Mallard,19.09.2023,0,4,2,2,0,0
+M,M,The_majestic_winged ,Asian Koel,19.09.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Asian Koel,19.09.2023,0,5,1,1,0,0
+M,E,BeakandBeauty ,Asian Koel,19.09.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Indigo bunting ,22.09.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Indigo bunting ,22.09.2023,0,1,1,1,0,0
+F,E,Chirp_Chronicles,Indigo bunting ,22.09.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Red crested pochard ,22.09.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Red crested pochard ,22.09.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Red crested pochard ,22.09.2023,0,2,0,0,0,0
+M,M,plumageparadise,Crested partridge ,22.09.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Crested partridge ,22.09.2023,0,3,1,1,0,0
+M,M,Bird.NerdNation ,Blyth's paradise-flycatcher ,22.09.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Blyth's paradise-flycatcher ,22.09.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Blyth's paradise-flycatcher ,22.09.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Greater Sage Grouse ,22.09.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Greater Sage Grouse ,22.09.2023,0,5,1,1,0,0
+F,E,BeakandBeauty ,Greater Sage Grouse ,22.09.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Oriental magpie robin ,26.09.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Oriental magpie robin ,26.09.2023,0,1,1,1,0,0
+F,E,Chirp_Chronicles,Oriental magpie robin ,26.09.2023,0,1,1,1,0,0
+M,M,Winged_Wonderss,Oriental magpie robin ,26.09.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Oriental magpie robin ,26.09.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Oriental magpie robin ,26.09.2023,0,2,0,0,0,0
+M,M,plumageparadise,Red-backed fairywren,26.09.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Red-backed fairywren,26.09.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Red-backed fairywren,26.09.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Gang-gang Cockatoo ,26.09.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Gang-gang Cockatoo ,26.09.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Gang-gang Cockatoo ,26.09.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Red Jungle fowl,26.09.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Red Jungle fowl,26.09.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Red Jungle fowl,26.09.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Greater Sage Grouse ,29.09.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Greater Sage Grouse ,29.09.2023,0,1,1,1,0,0
+F,E,Chirp_Chronicles,Greater Sage Grouse ,29.09.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Kalij Pheasant,29.09.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Kalij Pheasant,29.09.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Kalij Pheasant,29.09.2023,0,2,0,0,0,0
+M,M,plumageparadise,House finch ,29.09.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,House finch ,29.09.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,House finch ,29.09.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Asian Koel,29.09.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Asian Koel,29.09.2023,1,4,1,1,1,1
+M,M,The_majestic_winged ,Anna's hummingbird ,29.09.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Anna's hummingbird ,29.09.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Anna's hummingbird ,29.09.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Red Jungle fowl,03.10.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Red Jungle fowl,03.10.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Red Jungle fowl,03.10.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Himalayan Monal ,03.10.2023,0,2,1,1,0,0
+F,F,beak_beyond (F2),Himalayan Monal ,03.10.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Himalayan Monal ,03.10.2023,0,2,0,0,0,0
+M,M,plumageparadise,Vermilion Flycatcher,03.10.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Vermilion Flycatcher,03.10.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Vermilion Flycatcher,03.10.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Helmeted Manakin ,03.10.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Helmeted Manakin ,03.10.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Helmeted Manakin ,03.10.2023,1,4,1,1,1,1
+M,M,The_majestic_winged ,Band-tailed Manakin ,03.10.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Band-tailed Manakin ,03.10.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Band-tailed Manakin ,03.10.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Grandala ,06.10.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Grandala ,06.10.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Grandala ,06.10.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Band-tailed Manakin ,06.10.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Band-tailed Manakin ,06.10.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Band-tailed Manakin ,06.10.2023,0,2,0,0,0,0
+M,M,plumageparadise,Superb Lyrebird ,06.10.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Superb Lyrebird ,06.10.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Superb Lyrebird ,06.10.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Wild Turkey,06.10.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Wild Turkey,06.10.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Wild Turkey,06.10.2023,0,4,1,1,0,0
+M,M,The_majestic_winged ,Black grouse,06.10.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Black grouse,06.10.2023,0,5,12,12,0,0
+F,E,BeakandBeauty ,Black grouse,06.10.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Long-tailed Widowbirds ,10.10.2023,1,1,1,1,1,1
+F,F,Feathered_Fables,Long-tailed Widowbirds ,10.10.2023,0,1,1,1,0,0
+M,E,Chirp_Chronicles,Long-tailed Widowbirds ,10.10.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Common kestrel ,10.10.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Common kestrel ,10.10.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Common kestrel ,10.10.2023,0,2,3,3,0,0
+M,M,plumageparadise,Gang-gang Cockatoo ,10.10.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Gang-gang Cockatoo ,10.10.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Indigo bunting ,10.10.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Indigo bunting ,10.10.2023,0,4,0,0,0,0
+F,F,_Avian_Adventures,Oriental magpie robin ,10.10.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Oriental magpie robin ,10.10.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Common kestrel ,13.10.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Common kestrel ,13.10.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Common kestrel ,13.10.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Superb Parrot,13.10.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Superb Parrot,13.10.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Superb Parrot,13.10.2023,0,2,0,0,0,0
+M,M,plumageparadise,Common kestrel ,13.10.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Common kestrel ,13.10.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Common kestrel ,13.10.2023,0,3,0,0,0,0
+M,M,TheFeathered_Life ,Hooded Parrot ,17.10.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Hooded Parrot ,17.10.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Hooded Parrot ,17.10.2023,1,1,1,1,1,1
+M,M,Winged_Wonderss,Black grouse,17.10.2023,2,2,2,2,1,1
+F,F,beak_beyond (F2),Black grouse,17.10.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Black grouse,17.10.2023,0,2,0,0,0,0
+M,M,plumageparadise,Painted bunting ,17.10.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Painted bunting ,17.10.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Painted bunting ,17.10.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Common kestrel ,17.10.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Common kestrel ,17.10.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Common kestrel ,17.10.2023,0,4,1,1,0,0
+M,M,The_majestic_winged ,Common kestrel ,17.10.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Common kestrel ,17.10.2023,1,5,1,1,1,1
+F,E,BeakandBeauty ,Common kestrel ,17.10.2023,1,5,1,1,1,1
+M,M,TheFeathered_Life ,Ruby-throated hummingbird ,20.10.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Ruby-throated hummingbird ,20.10.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Ruby-throated hummingbird ,20.10.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Summer Tanager ,20.10.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Summer Tanager ,20.10.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Summer Tanager ,20.10.2023,0,2,0,0,0,0
+M,M,plumageparadise,Wood duck ,20.10.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Wood duck ,20.10.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Wood duck ,20.10.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Hooded Parrot ,20.10.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Hooded Parrot ,20.10.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Hooded Parrot ,20.10.2023,0,4,1,1,0,0
+M,M,The_majestic_winged ,Ruby-throated hummingbird ,20.10.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Ruby-throated hummingbird ,20.10.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Ruby-throated hummingbird ,20.10.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Dusky grouse ,24.10.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Dusky grouse ,24.10.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Dusky grouse ,24.10.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Purple-rumped Sunbird ,24.10.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Purple-rumped Sunbird ,24.10.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Purple-rumped Sunbird ,24.10.2023,0,2,0,0,0,0
+M,M,plumageparadise,Greater Sage Grouse ,24.10.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Greater Sage Grouse ,24.10.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Greater Sage Grouse ,24.10.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Large Niltava ,24.10.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Large Niltava ,24.10.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Large Niltava ,24.10.2023,1,4,1,1,1,1
+M,M,The_majestic_winged ,Red-backed fairywren,24.10.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Red-backed fairywren,24.10.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Red-backed fairywren,24.10.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Summer Tanager ,27.10.2023,1,1,1,1,1,1
+F,F,Feathered_Fables,Summer Tanager ,27.10.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Summer Tanager ,27.10.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Westen Parotia,27.10.2023,0,2,1,1,0,0
+F,F,beak_beyond (F2),Westen Parotia,27.10.2023,1,2,9,9,1,0.111111111
+M,E,Birds_near_you011,Westen Parotia,27.10.2023,0,2,0,0,0,0
+M,M,plumageparadise,Oriental magpie robin ,27.10.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Oriental magpie robin ,27.10.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Oriental magpie robin ,27.10.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Red cheeked Parrot ,27.10.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Red cheeked Parrot ,27.10.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Red cheeked Parrot ,27.10.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Wild Turkey,27.10.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Wild Turkey,27.10.2023,0,5,23,22,0,0
+M,E,BeakandBeauty ,Wild Turkey,27.10.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Band-tailed Manakin ,31.10.2023,0,1,1,1,0,0
+F,F,Feathered_Fables,Band-tailed Manakin ,31.10.2023,0,1,1,1,0,0
+F,E,Chirp_Chronicles,Band-tailed Manakin ,31.10.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Eastern Bluebird,31.10.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Eastern Bluebird,31.10.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Eastern Bluebird,31.10.2023,0,2,0,0,0,0
+M,M,plumageparadise,Black grouse,31.10.2023,0,3,11,11,0,0
+F,F,_Feathered_Fotos,Black grouse,31.10.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Black grouse,31.10.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Ribbon-tailed astrapia,31.10.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Ribbon-tailed astrapia,31.10.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Ribbon-tailed astrapia,31.10.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Westen Parotia,31.10.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Westen Parotia,31.10.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Westen Parotia,31.10.2023,0,5,0,0,0,0
+F,F,Feathered_Fables,Red cheeked Parrot ,03.11.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Red cheeked Parrot ,03.11.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Large Niltava ,03.11.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Large Niltava ,03.11.2023,1,2,2,1,1,1
+F,E,Birds_near_you011,Large Niltava ,03.11.2023,0,2,0,0,0,0
+M,M,plumageparadise,Red cheeked Parrot ,03.11.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Red cheeked Parrot ,03.11.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Red cheeked Parrot ,03.11.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Indian Peafowl ,03.11.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Indian Peafowl ,03.11.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Indian Peafowl ,03.11.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Andean Cock-of-the-rock,03.11.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Andean Cock-of-the-rock,03.11.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Andean Cock-of-the-rock,03.11.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Andean Cock-of-the-rock,07.11.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Andean Cock-of-the-rock,07.11.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Andean Cock-of-the-rock,07.11.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Asian Koel,07.11.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Asian Koel,07.11.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Asian Koel,07.11.2023,1,2,1,1,1,1
+M,M,plumageparadise,Band-tailed Manakin ,07.11.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Band-tailed Manakin ,07.11.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Band-tailed Manakin ,07.11.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Purple-rumped Sunbird ,07.11.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Purple-rumped Sunbird ,07.11.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Purple-rumped Sunbird ,07.11.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Mallard,07.11.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Mallard,07.11.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Mallard,07.11.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Superb Fairywrens ,10.11.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Superb Fairywrens ,10.11.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Superb Fairywrens ,10.11.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Andean Cock-of-the-rock,10.11.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Andean Cock-of-the-rock,10.11.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Andean Cock-of-the-rock,10.11.2023,0,2,0,0,0,0
+M,M,plumageparadise,Red siskin ,10.11.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Red siskin ,10.11.2023,0,3,1,1,0,0
+F,E,SkywardSquad ,Red siskin ,10.11.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Band-tailed Manakin ,10.11.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Band-tailed Manakin ,10.11.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Band-tailed Manakin ,10.11.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Summer Tanager ,10.11.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Summer Tanager ,10.11.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Summer Tanager ,10.11.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Mandarin duck ,14.11.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Mandarin duck ,14.11.2023,0,1,2,2,0,0
+M,E,Chirp_Chronicles,Mandarin duck ,14.11.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Indian Paradise Flycatcher,14.11.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Indian Paradise Flycatcher,14.11.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Indian Paradise Flycatcher,14.11.2023,0,2,0,0,0,0
+M,M,plumageparadise,Siberian Blue Robin ,14.11.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Siberian Blue Robin ,14.11.2023,0,3,1,1,0,0
+F,E,SkywardSquad ,Siberian Blue Robin ,14.11.2023,0,3,1,1,0,0
+M,M,Bird.NerdNation ,Painted spurfowl,14.11.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Painted spurfowl,14.11.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Painted spurfowl,14.11.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Crested partridge ,14.11.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Crested partridge ,14.11.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Crested partridge ,14.11.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Himalayan Monal ,17.11.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Himalayan Monal ,17.11.2023,0,1,2,2,0,0
+F,E,Chirp_Chronicles,Himalayan Monal ,17.11.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Mandarin duck ,17.11.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Mandarin duck ,17.11.2023,2,2,8,8,1,0.25
+M,E,Birds_near_you011,Mandarin duck ,17.11.2023,1,2,1,1,1,1
+M,M,plumageparadise,Magnificient Frigatebird,17.11.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Magnificient Frigatebird,17.11.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Magnificient Frigatebird,17.11.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Twelve-wired bird of Paradise ,17.11.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Twelve-wired bird of Paradise ,17.11.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Twelve-wired bird of Paradise ,17.11.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Indian Peafowl ,17.11.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Indian Peafowl ,17.11.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Indian Peafowl ,17.11.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Siberian Blue Robin ,21.11.2023,0,1,1,1,0,0
+F,F,Feathered_Fables,Siberian Blue Robin ,21.11.2023,0,1,2,2,0,0
+M,E,Chirp_Chronicles,Siberian Blue Robin ,21.11.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Greater Sage Grouse ,21.11.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Greater Sage Grouse ,21.11.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Greater Sage Grouse ,21.11.2023,0,2,0,0,0,0
+M,M,plumageparadise,Eastern Bluebird,21.11.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Eastern Bluebird,21.11.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Eastern Bluebird,21.11.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Ruby-throated hummingbird ,21.11.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Ruby-throated hummingbird ,21.11.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Ruby-throated hummingbird ,21.11.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Siberian Blue Robin ,21.11.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Siberian Blue Robin ,21.11.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Siberian Blue Robin ,21.11.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Vermilion Flycatcher,24.11.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Vermilion Flycatcher,24.11.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Vermilion Flycatcher,24.11.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Vermilion Flycatcher,24.11.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Vermilion Flycatcher,24.11.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Vermilion Flycatcher,24.11.2023,0,2,0,0,0,0
+M,M,plumageparadise,Large Niltava ,24.11.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Large Niltava ,24.11.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Large Niltava ,24.11.2023,0,3,10,10,0,0
+M,M,Bird.NerdNation ,Magnificient Frigatebird,24.11.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Magnificient Frigatebird,24.11.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Magnificient Frigatebird,24.11.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Magnificient Frigatebird,24.11.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Magnificient Frigatebird,24.11.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Magnificient Frigatebird,24.11.2023,1,5,1,1,1,1
+M,M,TheFeathered_Life ,Superb Lyrebird ,28.11.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Superb Lyrebird ,28.11.2023,0,1,1,1,0,0
+M,E,Chirp_Chronicles,Superb Lyrebird ,28.11.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,House finch ,28.11.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),House finch ,28.11.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,House finch ,28.11.2023,0,2,0,0,0,0
+M,M,plumageparadise,Purple-rumped Sunbird ,28.11.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Purple-rumped Sunbird ,28.11.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Purple-rumped Sunbird ,28.11.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Himalayan Monal ,28.11.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Himalayan Monal ,28.11.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Himalayan Monal ,28.11.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Himalayan Monal ,28.11.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Himalayan Monal ,28.11.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Himalayan Monal ,28.11.2023,1,5,1,1,1,1
+M,M,TheFeathered_Life ,Blood pheasant ,05.12.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Blood pheasant ,05.12.2023,0,1,2,2,0,0
+M,M,Winged_Wonderss,Superb Lyrebird ,05.12.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Superb Lyrebird ,05.12.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Superb Lyrebird ,05.12.2023,0,2,0,0,0,0
+M,M,plumageparadise,Ribbon-tailed astrapia,05.12.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Ribbon-tailed astrapia,05.12.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Ribbon-tailed astrapia,05.12.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Painted bunting ,05.12.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Painted bunting ,05.12.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Painted bunting ,05.12.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Hooded Parrot ,05.12.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Hooded Parrot ,05.12.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Hooded Parrot ,05.12.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Crested partridge ,08.12.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Crested partridge ,08.12.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Crested partridge ,08.12.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Red Jungle fowl,08.12.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Red Jungle fowl,08.12.2023,0,2,0,0,0,0
+M,M,plumageparadise,Indian Peafowl ,08.12.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Indian Peafowl ,08.12.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Indian Peafowl ,08.12.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Mandarin duck ,08.12.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Mandarin duck ,08.12.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Mandarin duck ,08.12.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Mandarin duck ,08.12.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Mandarin duck ,08.12.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Mandarin duck ,08.12.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Superb Parrot,12.12.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Superb Parrot,12.12.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Superb Parrot,12.12.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Crested partridge ,12.12.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Crested partridge ,12.12.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Crested partridge ,12.12.2023,0,2,0,0,0,0
+M,M,plumageparadise,Grandala ,12.12.2023,0,3,4,4,0,0
+F,F,_Feathered_Fotos,Grandala ,12.12.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Grandala ,12.12.2023,0,3,0,0,0,0
+F,F,Birding_bliss23,Red Jungle fowl,12.12.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Red Jungle fowl,12.12.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Painted spurfowl,12.12.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Painted spurfowl,12.12.2023,0,5,0,0,0,0
+M,E,BeakandBeauty ,Painted spurfowl,12.12.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Helmeted Manakin ,15.12.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Helmeted Manakin ,15.12.2023,0,1,0,0,0,0
+M,E,Chirp_Chronicles,Helmeted Manakin ,15.12.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Mallard,15.12.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Mallard,15.12.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Mallard,15.12.2023,0,2,0,0,0,0
+M,M,plumageparadise,Summer Tanager ,15.12.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Summer Tanager ,15.12.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Summer Tanager ,15.12.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Greater Sage Grouse ,15.12.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Greater Sage Grouse ,15.12.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Greater Sage Grouse ,15.12.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Grandala ,15.12.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Grandala ,15.12.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Grandala ,15.12.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Large Niltava ,19.12.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Large Niltava ,19.12.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Large Niltava ,19.12.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Superb Fairywrens ,19.12.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Superb Fairywrens ,19.12.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Superb Fairywrens ,19.12.2023,0,2,0,0,0,0
+M,M,plumageparadise,Long-tailed Widowbirds ,19.12.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Long-tailed Widowbirds ,19.12.2023,1,3,1,1,1,1
+M,E,SkywardSquad ,Long-tailed Widowbirds ,19.12.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Siberian Blue Robin ,19.12.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Siberian Blue Robin ,19.12.2023,0,4,1,1,0,0
+F,E,Feathered_wonder_ss,Siberian Blue Robin ,19.12.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Long-tailed Widowbirds ,19.12.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Long-tailed Widowbirds ,19.12.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Long-tailed Widowbirds ,19.12.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Blyth's paradise-flycatcher ,22.12.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Blyth's paradise-flycatcher ,22.12.2023,0,1,0,0,0,0
+F,E,Chirp_Chronicles,Blyth's paradise-flycatcher ,22.12.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Siberian Blue Robin ,22.12.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Siberian Blue Robin ,22.12.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Siberian Blue Robin ,22.12.2023,0,2,0,0,0,0
+F,F,Birding_bliss23,Red siskin ,22.12.2023,0,4,0,0,0,0
+F,E,Feathered_wonder_ss,Red siskin ,22.12.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Ribbon-tailed astrapia,22.12.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Ribbon-tailed astrapia,22.12.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Ribbon-tailed astrapia,22.12.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Reeve's pheasant ,26.12.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Reeve's pheasant ,26.12.2023,0,1,1,1,0,0
+M,E,Chirp_Chronicles,Reeve's pheasant ,26.12.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Wood duck ,26.12.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Wood duck ,26.12.2023,0,2,0,0,0,0
+F,E,Birds_near_you011,Wood duck ,26.12.2023,0,2,0,0,0,0
+M,M,plumageparadise,Red crested pochard ,26.12.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Red crested pochard ,26.12.2023,0,3,0,0,0,0
+M,E,SkywardSquad ,Red crested pochard ,26.12.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Superb Parrot,26.12.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Superb Parrot,26.12.2023,0,4,0,0,0,0
+M,E,Feathered_wonder_ss,Superb Parrot,26.12.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Gang-gang Cockatoo ,26.12.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Gang-gang Cockatoo ,26.12.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Gang-gang Cockatoo ,26.12.2023,0,5,0,0,0,0
+M,M,TheFeathered_Life ,Purple-rumped Sunbird ,29.12.2023,0,1,0,0,0,0
+F,F,Feathered_Fables,Purple-rumped Sunbird ,29.12.2023,0,1,1,1,0,0
+F,E,Chirp_Chronicles,Purple-rumped Sunbird ,29.12.2023,0,1,0,0,0,0
+M,M,Winged_Wonderss,Twelve-wired bird of Paradise ,29.12.2023,0,2,0,0,0,0
+F,F,beak_beyond (F2),Twelve-wired bird of Paradise ,29.12.2023,0,2,0,0,0,0
+M,E,Birds_near_you011,Twelve-wired bird of Paradise ,29.12.2023,0,2,0,0,0,0
+M,M,plumageparadise,Superb Parrot,29.12.2023,0,3,0,0,0,0
+F,F,_Feathered_Fotos,Superb Parrot,29.12.2023,0,3,0,0,0,0
+F,E,SkywardSquad ,Superb Parrot,29.12.2023,0,3,0,0,0,0
+M,M,Bird.NerdNation ,Eclectus parrot,29.12.2023,0,4,0,0,0,0
+F,F,Birding_bliss23,Eclectus parrot,29.12.2023,0,4,1,1,0,0
+M,E,Feathered_wonder_ss,Eclectus parrot,29.12.2023,0,4,0,0,0,0
+M,M,The_majestic_winged ,Dusky grouse ,29.12.2023,0,5,0,0,0,0
+F,F,_Avian_Adventures,Dusky grouse ,29.12.2023,0,5,0,0,0,0
+F,E,BeakandBeauty ,Dusky grouse ,29.12.2023,0,5,0,0,0,0
